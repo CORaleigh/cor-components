@@ -1,0 +1,28 @@
+{
+  "name": "cor-components",
+  "version": "1.0.0",
+  "description": "A bunch of bootstrap-y React components",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Will Refvem <github.com/wbrefvem>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:CORaleigh/cor-components.git"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.8.0",
+    "babel-plugin-transform-react-jsx": "^6.8.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-browserify": "^5.0.0",
+    "grunt-eslint": "^18.1.0"
+  }
+}
