@@ -2,6 +2,7 @@
   "name": "cor-components",
   "version": "1.0.0",
   "description": "A bunch of bootstrap-y React components",
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
@@ -20,6 +21,8 @@
     "babel-plugin-transform-react-jsx": "^6.8.0",
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-react": "^6.5.0",
+    "eslint": "^2.10.2",
+    "eslint-plugin-react": "^5.1.1",
     "grunt": "^1.0.1",
     "grunt-babel": "^6.0.0",
     "grunt-browserify": "^5.0.0",
