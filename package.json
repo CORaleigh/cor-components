@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com:CORaleigh/cor-components.git"
+    "url": "https://github.com:CORaleigh/cor-components.git"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
